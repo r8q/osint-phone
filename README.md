@@ -11,8 +11,14 @@
 * [Contact](#contact)
 
 ## Screenshots 
+**Turkey**
+<br>
 ![Example screenshot](Screenshot_2)
-
+<br>
+**USA**
+<br>
+![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_1%20(2).png)
+<br>
 ## Technologies 🔮
  <img src="https://img.shields.io/badge/made%20with-python-yellow.svg" alt="made with python">
 
