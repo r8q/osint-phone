@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## Screenshots 
-![Example screenshot](./img/Screenshot_2)
+![Example screenshot](Screenshot_2)
 
 ## Technologies 🔮
  <img src="https://img.shields.io/badge/made%20with-python-yellow.svg" alt="made with python">
