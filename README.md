@@ -13,7 +13,7 @@
 ## Screenshots 
 **Turkey**
 <br>
-![Example screenshot](Screenshot_2)
+![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_2.png)
 <br>
 **USA**
 <br>
