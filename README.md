@@ -23,7 +23,11 @@
 `pip install colorma`
 
 ## Code Examples ✨
-Show examples of usage:
+**Show examples of usage:**
+<br>
+<br>
+`python telno.py`
+<br>
 <br>
 `please enter number with signature (+): +1XXXX57619445`
 <br>
@@ -42,4 +46,4 @@ List of features ready and TODOs for future development
 Project is:  _finished_
 
 ## Contact 🌟
-📫 [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com)feel free to contact me!
+📫 [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com) feel free to contact me!
