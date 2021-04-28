@@ -6,8 +6,8 @@
 * [Technologies 🔮](#technologies)
 * [Setup](#setup)
 * [Features 👨‍💻](#features)
-* [Status ✔️](#status✔️)
-* [Contact 🌟](#contact)
+* [Status](#status)
+* [Contact](#contact)
 
 ## Screenshots  🤖
 **WORKING Turkey** ✔️
@@ -39,7 +39,8 @@
 <br>
 `please enter abbreviated country code ex: tr,us: tr`
 
-## Features 👨‍💻
+## Features 
+👨‍💻
 List of features ready and TODOs for future development
 * Country 🗺️
 * Phone Line 📱
@@ -50,5 +51,6 @@ List of features ready and TODOs for future development
 ## Status ✔️
 Project is:  _finished_
 
-## Contact 🌟
+## Contact 
+🌟
 📫 [gustavfidan@bugpunisher.com](mailto:gustavfidan@bugpunisher.com) feel free to contact me!
