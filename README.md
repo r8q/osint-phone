@@ -3,11 +3,11 @@
 
 ## Table of contents 📱
 * [Screenshots 🤖](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Contact](#contact)
+* [Technologies🔮](#technologies)
+* [Setup💻⚙️](#setup)
+* [Features👨‍💻](#features)
+* [Status✔️](#status)
+* [Contact🌟](#contact)
 
 ## Screenshots 
 🤖
