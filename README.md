@@ -9,12 +9,12 @@
 * [Status ✔️](#status)
 * [Contact 🌟](#contact)
 
-## Screenshots 🤖
-** WORKING ✔️ Turkey**
+## Screenshots  🤖
+**WORKING Turkey** ✔️
 <br>
 ![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_2.png)
 <br>
-** WORKINNG ✔️ USA**
+**WORKINNG USA**✔️ 
 <br>
 ![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_1%20(2).png)
 <br>
