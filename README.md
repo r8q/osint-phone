@@ -2,20 +2,19 @@
 > Makes phone number queries for you 👋
 
 ## Table of contents 📱
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Screenshots 🤖](#screenshots)
+* [Technologies 🔮](#technologies)
+* [Setup ⚙️ 💻](#setup)
+* [Features 👨‍💻](#features)
+* [Status ✔️](#status)
+* [Contact 🌟](#contact)
 
-## Screenshots 
-**Turkey**
+## Screenshots 🤖
+** WORKING ✔️ Turkey**
 <br>
 ![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_2.png)
 <br>
-**USA**
+** WORKINNG ✔️ USA**
 <br>
 ![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_1%20(2).png)
 <br>
