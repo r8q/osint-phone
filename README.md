@@ -9,7 +9,8 @@
 * [Status](#status)
 * [Contact](#contact)
 
-## Screenshots 🤖
+## Screenshots 
+🤖
 **WORKING Turkey** ✔️
 <br>
 ![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_2.png)
@@ -18,17 +19,19 @@
 <br>
 ![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_1%20(2).png)
 <br>
-## Technologies 🔮
+## Technologies 
+🔮
  <img src="https://img.shields.io/badge/made%20with-python-yellow.svg" alt="made with python">
 
 ## Setup 
-<h2>💻⚙️</h2>
+💻⚙️
 `pip install phonenumbers`
 <br>
 <br>
 `pip install colorma`
 
-## Code Examples ✨
+## Code Examples 
+✨
 **Show examples of usage:**
 <br>
 <br>
@@ -49,7 +52,8 @@ List of features ready and TODOs for future development
 
 
 
-## Status ✔️
+## Status 
+✔️
 Project is:  _finished_
 
 ## Contact 
