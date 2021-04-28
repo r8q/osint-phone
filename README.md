@@ -6,7 +6,7 @@
 * [Technologies 🔮](#technologies)
 * [Setup](#setup)
 * [Features 👨‍💻](#features)
-* [Status ✔️](#status)
+* [Status ✔️](#status✔️)
 * [Contact 🌟](#contact)
 
 ## Screenshots  🤖
