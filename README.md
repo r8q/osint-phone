@@ -3,13 +3,13 @@
 
 ## Table of contents 📱
 * [Screenshots 🤖](#screenshots)
-* [Technologies 🔮](#technologies)
+* [Technologies](#technologies)
 * [Setup](#setup)
-* [Features 👨‍💻](#features)
+* [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
-## Screenshots  🤖
+## Screenshots 🤖
 **WORKING Turkey** ✔️
 <br>
 ![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_2.png)
