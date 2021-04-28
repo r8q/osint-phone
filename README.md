@@ -22,6 +22,7 @@
  <img src="https://img.shields.io/badge/made%20with-python-yellow.svg" alt="made with python">
 
 ## Setup 
+<h2>💻⚙️</h2>
 `pip install phonenumbers`
 <br>
 <br>
