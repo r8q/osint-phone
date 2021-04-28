@@ -4,7 +4,7 @@
 ## Table of contents 📱
 * [Screenshots 🤖](#screenshots)
 * [Technologies 🔮](#technologies)
-* [Setup ⚙️ 💻](#setup)
+* [Setup](#setup)
 * [Features 👨‍💻](#features)
 * [Status ✔️](#status)
 * [Contact 🌟](#contact)
@@ -21,7 +21,7 @@
 ## Technologies 🔮
  <img src="https://img.shields.io/badge/made%20with-python-yellow.svg" alt="made with python">
 
-## Setup ⚙️ 💻
+## Setup 
 `pip install phonenumbers`
 <br>
 <br>
